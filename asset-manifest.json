@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Meme-Generator/static/css/main.9e76c2f1.css",
+    "main.js": "/Meme-Generator/static/js/main.60c585bd.js",
+    "static/js/787.876f76cf.chunk.js": "/Meme-Generator/static/js/787.876f76cf.chunk.js",
+    "static/media/laughing-face.png": "/Meme-Generator/static/media/laughing-face.c371feba39f223dcf11b.png",
+    "index.html": "/Meme-Generator/index.html",
+    "main.9e76c2f1.css.map": "/Meme-Generator/static/css/main.9e76c2f1.css.map",
+    "main.60c585bd.js.map": "/Meme-Generator/static/js/main.60c585bd.js.map",
+    "787.876f76cf.chunk.js.map": "/Meme-Generator/static/js/787.876f76cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e76c2f1.css",
+    "static/js/main.60c585bd.js"
+  ]
+}
